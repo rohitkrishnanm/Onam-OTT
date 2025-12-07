@@ -110,18 +110,6 @@
     "expiry": "2025-10-15" // DATE FORMAT~ YYYY-MM-DD
   },
   {
-    "Device Id": "c8766d6367c3f5",  // NO DEVICE ID, LOGIN NOT WORK 
-    "username": "kkk",
-    "password": "kkk",
-    "expiry": "2026-01-01"
-  },
-  {
-    "Device Id": "fdfcff3aa83ef7f0",  // NO DEVICE ID, LOGIN NOT WORK 
-    "username": "test",
-    "password": "test",
-    "expiry": "2026-01-01"
-  },
-  {
     "Device Id": "57576096883c306e",  // NO DEVICE ID, LOGIN NOT WORK 
     "username": "adithya",
     "password": "adithya",
@@ -138,12 +126,6 @@
     "username": "aishu",
     "password": "aishu",
     "expiry": "2026-01-01"
-  },
-  {
-    "Device Id": "362e24d61e42d128",  // NO DEVICE ID, LOGIN NOT WORK 
-    "username": "rohit",
-    "password": "rohit",
-    "expiry": "2026-01-30"
   },
   {
     "Device Id": "PASTE-DEVICE-ID",
