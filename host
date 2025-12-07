@@ -43,12 +43,6 @@
     "expiry": "2026-01-30"
   },
   {
-    "Device Id": "c8766d6367c3f57f",  // NO DEVICE ID, LOGIN NOT WORK 
-    "username": "abc",
-    "password": "123",
-    "expiry": "2025-12-10"
-  },
-  {
     "Device Id": "PASTE-DEVICE-ID",
     "username": "def",
     "password": "102",
