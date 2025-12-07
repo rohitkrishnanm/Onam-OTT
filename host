@@ -110,7 +110,7 @@
     "expiry": "2025-10-15" // DATE FORMAT~ YYYY-MM-DD
   },
   {
-    "Device Id": "c8766d6367c3f57f",  // NO DEVICE ID, LOGIN NOT WORK 
+    "Device Id": "c8766d6367c3f5",  // NO DEVICE ID, LOGIN NOT WORK 
     "username": "kkk",
     "password": "kkk",
     "expiry": "2026-01-01"
