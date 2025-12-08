@@ -116,12 +116,6 @@
     "expiry": "2026-01-01"
   },
   {
-    "Device Id": "585548712abc4563",  // NO DEVICE ID, LOGIN NOT WORK 
-    "username": "sumi",
-    "password": "sumi",
-    "expiry": "2026-01-01"
-  },
-  {
     "Device Id": "96477c06acaaf4dd",  // NO DEVICE ID, LOGIN NOT WORK 
     "username": "aishu",
     "password": "aishu",
